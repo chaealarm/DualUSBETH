@@ -1,5 +1,6 @@
 # DualUSBETH
 
+Using EasyEDA.
 2 of RTL8152 module for USB ethernet tethering for Android device-Apple Silicon mac.
 
 <img width="699" alt="model" src="https://user-images.githubusercontent.com/12396749/145405675-b459529b-cd4d-4090-ac54-408fb414c921.png">
